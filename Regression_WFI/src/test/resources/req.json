@@ -1,0 +1,379 @@
+[
+    {
+        "accountId": "AI0WQ8",
+        "accountNumber": 13351108,
+        "accountName": "Walter D. Ackerman, III, Rollover IRA ",
+        "bankInformation": [
+            {
+                "instructionNumber": 2,
+                "bankName": "KIKU #$BUKS20230913",
+                "bankAccountNumber": "******8318",
+                "customerName": "KIKS BANK#$ CUSTOMER NAME#$ 2",
+                "accountType": "Checking",
+                "abaRoutingNumber": "021000021",
+                "isFirstParty": false,
+                "isSLOA": false,
+                "shouldDisplay": false,
+                "isSelected": false,
+                "typeOfBeneficiary": "ThirdPartyDomesticIndividual",
+                "investmentAccounts": [
+                    {
+                        "accountName": "Walter D. Ackerman, III, Rollover IRA ",
+                        "accountNumber": 13351108,
+                        "isFirstParty": false
+                    }
+                ]
+            },
+            {
+                "instructionNumber": 3,
+                "bankName": "KIKU #$BUKS20230913_1",
+                "bankAccountNumber": "******8318",
+                "customerName": "KIKS BANK#$ CUSTOMER NAME#$ 2",
+                "accountType": "Checking",
+                "abaRoutingNumber": "021000021",
+                "isFirstParty": true,
+                "isSLOA": false,
+                "shouldDisplay": true,
+                "isSelected": false,
+                "typeOfBeneficiary": "SameNameAndAddress",
+                "investmentAccounts": [
+                    {
+                        "accountName": "Walter D. Ackerman, III, Rollover IRA ",
+                        "accountNumber": 13351108,
+                        "isFirstParty": true
+                    },
+                    {
+                        "accountName": "Walter D. Ackerman, III, Rollover IRA ",
+                        "accountNumber": 13351108,
+                        "isFirstParty": true
+                    },
+                    {
+                        "accountName": "Walter D. Ackerman, III, Rollover IRA ",
+                        "accountNumber": 13351108,
+                        "isFirstParty": true
+                    },
+                    {
+                        "accountName": "Walter D. Ackerman, III, Rollover IRA ",
+                        "accountNumber": 13351108,
+                        "isFirstParty": true
+                    },
+                    {
+                        "accountName": "Walter D. Ackerman, III, Rollover IRA ",
+                        "accountNumber": 13351108,
+                        "isFirstParty": true
+                    },
+                    {
+                        "accountName": "Walter D. Ackerman, III, Rollover IRA ",
+                        "accountNumber": 13351108,
+                        "isFirstParty": true
+                    }
+                ]
+            },
+            {
+                "instructionNumber": 4,
+                "bankName": "KIKU #$BUKS20230913_1",
+                "bankAccountNumber": "******8318",
+                "customerName": "KIKS BANK#$ CUSTOMER NAME#$ 2",
+                "accountType": "Checking",
+                "abaRoutingNumber": "021000021",
+                "isFirstParty": true,
+                "isSLOA": true,
+                "shouldDisplay": true,
+                "isSelected": false,
+                "typeOfBeneficiary": "SameNameAndAddress",
+                "investmentAccounts": [
+                    {
+                        "accountName": "Walter D. Ackerman, III, Rollover IRA ",
+                        "accountNumber": 13351108,
+                        "isFirstParty": true
+                    },
+                    {
+                        "accountName": "Walter D. Ackerman, III, Rollover IRA ",
+                        "accountNumber": 13351108,
+                        "isFirstParty": true
+                    },
+                    {
+                        "accountName": "Walter D. Ackerman, III, Rollover IRA ",
+                        "accountNumber": 13351108,
+                        "isFirstParty": true
+                    },
+                    {
+                        "accountName": "Walter D. Ackerman, III, Rollover IRA ",
+                        "accountNumber": 13351108,
+                        "isFirstParty": true
+                    },
+                    {
+                        "accountName": "Walter D. Ackerman, III, Rollover IRA ",
+                        "accountNumber": 13351108,
+                        "isFirstParty": true
+                    },
+                    {
+                        "accountName": "Walter D. Ackerman, III, Rollover IRA ",
+                        "accountNumber": 13351108,
+                        "isFirstParty": true
+                    }
+                ]
+            },
+            {
+                "instructionNumber": 5,
+                "bankName": "KIKU #$BUKS20230913_1",
+                "bankAccountNumber": "******8318",
+                "customerName": "KIKS BANK#$ CUSTOMER NAME#$ 2",
+                "accountType": "Checking",
+                "abaRoutingNumber": "021000021",
+                "isFirstParty": true,
+                "isSLOA": true,
+                "shouldDisplay": true,
+                "isSelected": false,
+                "typeOfBeneficiary": "SameNameAndAddress",
+                "investmentAccounts": [
+                    {
+                        "accountName": "Walter D. Ackerman, III, Rollover IRA ",
+                        "accountNumber": 13351108,
+                        "isFirstParty": true
+                    },
+                    {
+                        "accountName": "Walter D. Ackerman, III, Rollover IRA ",
+                        "accountNumber": 13351108,
+                        "isFirstParty": true
+                    },
+                    {
+                        "accountName": "Walter D. Ackerman, III, Rollover IRA ",
+                        "accountNumber": 13351108,
+                        "isFirstParty": true
+                    },
+                    {
+                        "accountName": "Walter D. Ackerman, III, Rollover IRA ",
+                        "accountNumber": 13351108,
+                        "isFirstParty": true
+                    },
+                    {
+                        "accountName": "Walter D. Ackerman, III, Rollover IRA ",
+                        "accountNumber": 13351108,
+                        "isFirstParty": true
+                    },
+                    {
+                        "accountName": "Walter D. Ackerman, III, Rollover IRA ",
+                        "accountNumber": 13351108,
+                        "isFirstParty": true
+                    }
+                ]
+            },
+            {
+                "instructionNumber": 6,
+                "bankName": "KIKU #$BUKS20230913_1",
+                "bankAccountNumber": "******8318",
+                "customerName": "KIKS BANK#$ CUSTOMER NAME#$ 2",
+                "accountType": "Checking",
+                "abaRoutingNumber": "021000021",
+                "isFirstParty": true,
+                "isSLOA": true,
+                "shouldDisplay": true,
+                "isSelected": false,
+                "typeOfBeneficiary": "SameNameAndAddress",
+                "investmentAccounts": [
+                    {
+                        "accountName": "Walter D. Ackerman, III, Rollover IRA ",
+                        "accountNumber": 13351108,
+                        "isFirstParty": true
+                    },
+                    {
+                        "accountName": "Walter D. Ackerman, III, Rollover IRA ",
+                        "accountNumber": 13351108,
+                        "isFirstParty": true
+                    },
+                    {
+                        "accountName": "Walter D. Ackerman, III, Rollover IRA ",
+                        "accountNumber": 13351108,
+                        "isFirstParty": true
+                    },
+                    {
+                        "accountName": "Walter D. Ackerman, III, Rollover IRA ",
+                        "accountNumber": 13351108,
+                        "isFirstParty": true
+                    },
+                    {
+                        "accountName": "Walter D. Ackerman, III, Rollover IRA ",
+                        "accountNumber": 13351108,
+                        "isFirstParty": true
+                    },
+                    {
+                        "accountName": "Walter D. Ackerman, III, Rollover IRA ",
+                        "accountNumber": 13351108,
+                        "isFirstParty": true
+                    }
+                ]
+            },
+            {
+                "instructionNumber": 7,
+                "bankName": "KIKU #$BUKS20230913_1",
+                "bankAccountNumber": "******8318",
+                "customerName": "KIKS BANK#$ CUSTOMER NAME#$ 2",
+                "accountType": "Checking",
+                "abaRoutingNumber": "021000021",
+                "isFirstParty": true,
+                "isSLOA": true,
+                "shouldDisplay": true,
+                "isSelected": false,
+                "typeOfBeneficiary": "SameNameAndAddress",
+                "investmentAccounts": [
+                    {
+                        "accountName": "Walter D. Ackerman, III, Rollover IRA ",
+                        "accountNumber": 13351108,
+                        "isFirstParty": true
+                    },
+                    {
+                        "accountName": "Walter D. Ackerman, III, Rollover IRA ",
+                        "accountNumber": 13351108,
+                        "isFirstParty": true
+                    },
+                    {
+                        "accountName": "Walter D. Ackerman, III, Rollover IRA ",
+                        "accountNumber": 13351108,
+                        "isFirstParty": true
+                    },
+                    {
+                        "accountName": "Walter D. Ackerman, III, Rollover IRA ",
+                        "accountNumber": 13351108,
+                        "isFirstParty": true
+                    },
+                    {
+                        "accountName": "Walter D. Ackerman, III, Rollover IRA ",
+                        "accountNumber": 13351108,
+                        "isFirstParty": true
+                    },
+                    {
+                        "accountName": "Walter D. Ackerman, III, Rollover IRA ",
+                        "accountNumber": 13351108,
+                        "isFirstParty": true
+                    }
+                ]
+            },
+            {
+                "instructionNumber": 8,
+                "bankName": "KIKU #$BUKS20230913_1",
+                "bankAccountNumber": "******8318",
+                "customerName": "KIKS BANK#$ CUSTOMER NAME#$ 2",
+                "accountType": "Checking",
+                "abaRoutingNumber": "021000021",
+                "isFirstParty": true,
+                "isSLOA": true,
+                "shouldDisplay": true,
+                "isSelected": false,
+                "typeOfBeneficiary": "SameNameAndAddress",
+                "investmentAccounts": [
+                    {
+                        "accountName": "Walter D. Ackerman, III, Rollover IRA ",
+                        "accountNumber": 13351108,
+                        "isFirstParty": true
+                    },
+                    {
+                        "accountName": "Walter D. Ackerman, III, Rollover IRA ",
+                        "accountNumber": 13351108,
+                        "isFirstParty": true
+                    },
+                    {
+                        "accountName": "Walter D. Ackerman, III, Rollover IRA ",
+                        "accountNumber": 13351108,
+                        "isFirstParty": true
+                    },
+                    {
+                        "accountName": "Walter D. Ackerman, III, Rollover IRA ",
+                        "accountNumber": 13351108,
+                        "isFirstParty": true
+                    },
+                    {
+                        "accountName": "Walter D. Ackerman, III, Rollover IRA ",
+                        "accountNumber": 13351108,
+                        "isFirstParty": true
+                    },
+                    {
+                        "accountName": "Walter D. Ackerman, III, Rollover IRA ",
+                        "accountNumber": 13351108,
+                        "isFirstParty": true
+                    }
+                ]
+            },
+            {
+                "instructionNumber": 9,
+                "bankName": "TEST BANK",
+                "bankAccountNumber": "******3331",
+                "customerName": "TEST",
+                "accountType": "Checking",
+                "abaRoutingNumber": "122100024",
+                "isFirstParty": true,
+                "isSLOA": false,
+                "shouldDisplay": true,
+                "isSelected": false,
+                "typeOfBeneficiary": "SameNameAndAddress",
+                "investmentAccounts": [
+                    {
+                        "accountName": "Walter D. Ackerman, III, Rollover IRA ",
+                        "accountNumber": 13351108,
+                        "isFirstParty": true
+                    }
+                ]
+            },
+            {
+                "instructionNumber": 10,
+                "bankName": "TEST BANK",
+                "bankAccountNumber": "******3332",
+                "customerName": "TEST ACCT",
+                "accountType": "Checking",
+                "abaRoutingNumber": "122100024",
+                "isFirstParty": false,
+                "isSLOA": false,
+                "shouldDisplay": false,
+                "isSelected": false,
+                "typeOfBeneficiary": "ThirdPartyDomesticIndividual",
+                "investmentAccounts": [
+                    {
+                        "accountName": "Walter D. Ackerman, III, Rollover IRA ",
+                        "accountNumber": 13351108,
+                        "isFirstParty": false
+                    }
+                ]
+            },
+            {
+                "instructionNumber": 11,
+                "bankName": "TEST 3",
+                "bankAccountNumber": "******3333",
+                "customerName": "TEST",
+                "accountType": "Checking",
+                "abaRoutingNumber": "122100024",
+                "isFirstParty": true,
+                "isSLOA": false,
+                "shouldDisplay": false,
+                "isSelected": false,
+                "typeOfBeneficiary": "DifferentAddress",
+                "investmentAccounts": [
+                    {
+                        "accountName": "Walter D. Ackerman, III, Rollover IRA ",
+                        "accountNumber": 13351108,
+                        "isFirstParty": true
+                    }
+                ]
+            },
+            {
+                "instructionNumber": 12,
+                "bankName": "KIKU #$BUKS20230913 1",
+                "bankAccountNumber": "******8318",
+                "customerName": "KIKS BANK#$ CUSTOMER NAME#$2",
+                "accountType": "Checking",
+                "abaRoutingNumber": "021000021",
+                "isFirstParty": true,
+                "isSLOA": false,
+                "shouldDisplay": true,
+                "isSelected": false,
+                "typeOfBeneficiary": "SameNameAndAddress",
+                "investmentAccounts": [
+                    {
+                        "accountName": "Walter D. Ackerman, III, Rollover IRA ",
+                        "accountNumber": 13351108,
+                        "isFirstParty": true
+                    }
+                ]
+            }
+        ]
+    }
+]
